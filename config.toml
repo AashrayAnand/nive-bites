@@ -1,5 +1,16 @@
+theme = "zola-futu"
+
 # The URL the site will be built for
-base_url = "https://nive.bites"
+base_url = "https://nive-bites.vercel.app"
+
+# Site title
+title = "Nive's Bites"
+
+# Site description
+description = "Nive's Bites - A personal blog"
+
+# Site author
+author = "Nive"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
