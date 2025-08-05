@@ -1,7 +1,7 @@
 +++
 title = "Cava At Home"
 date = 2025-08-04
-description = "Cava At Home""
+description = "Cava At Home"
 +++
 
 Nive really popped off with this, I call these "silent meals" cus the two of us will go mute and just destroy our dinner without a word.
