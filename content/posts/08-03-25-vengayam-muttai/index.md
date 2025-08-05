@@ -4,7 +4,7 @@ date = 2025-08-03
 description = "Vengayam Muttai - Onion Fried Omelet"
 +++
 
-{{ resize_image(path="posts/08-03-25-vengayam-muttai/Vengayam_Muttai_Final.jpeg", width=450, height=450, op="scale") }}
+![fry that shit](Vengayam_Muttai_Final.jpeg)
 
 Nive was craving this after she saw it on TikTok so we had to enjoy it for a Sunday brunch.
 Brunch is def Nive's favorite meal to make and she's always coming up w smtg new.

@@ -4,6 +4,8 @@ date = 2025-08-04
 description = "Cava At Home"
 +++
 
+![bowl pic](Cava_At_Home.jpeg)
+
 Nive really popped off with this, I call these "silent meals" cus the two of us will go mute and just destroy our dinner without a word.
 
 Super quick and easy meal she lowk can make way cooler stuff but this was so good and satisfying.
@@ -26,10 +28,6 @@ Super quick and easy meal she lowk can make way cooler stuff but this was so goo
 - 2 tbsp lemon juice
 - 1/4 cup dill
 - salt and pepper to taste.
-
-{{ resize_image(path="posts/08-04-25-cava-at-home/Cava_At_Home.jpeg", width=450, height=450, op="scale") }}
-
-![test out orig image.](Cava_At_Home.jpeg)
 
 **Steps:**
 1. Combine all dressing ingredients and blend, dilute with water if needed.
