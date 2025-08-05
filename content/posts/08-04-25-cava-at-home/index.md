@@ -12,7 +12,7 @@ Super quick and easy meal she lowk can make way cooler stuff but this was so goo
 
 **Ingredients (6 servings):**
 
-- 16 oz couscous
+- 5 oz couscous
 - 5 persian cucumbers
 - 1/4 cup red onion (julienned)
 - 1 cup cherry tomatoes
