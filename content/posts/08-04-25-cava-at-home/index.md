@@ -18,7 +18,7 @@ Super quick and easy meal she lowk can make way cooler stuff but this was so goo
 - 1 cup cherry tomatoes
 - salt and pepper.
 - feta cheese
-- protein (we used beyond plant meatballs)
+- protein (we used beyond plant + amylu chicken meatballs)
 
 **Dressing**
 
@@ -35,3 +35,9 @@ Super quick and easy meal she lowk can make way cooler stuff but this was so goo
 3. Cook couscous as instructed.
 4. Prepare your preferred protein
 5. Assemble and serve.
+
+**Macros**
+
+- 413 calories
+- 4.5g saturated fat
+- 26g protein
