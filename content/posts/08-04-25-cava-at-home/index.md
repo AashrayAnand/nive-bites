@@ -29,6 +29,8 @@ Super quick and easy meal she lowk can make way cooler stuff but this was so goo
 
 {{ resize_image(path="posts/08-04-25-cava-at-home/Cava_At_Home.jpeg", width=450, height=450, op="scale") }}
 
+![test out orig image.](Cava_At_Home.jpeg)
+
 **Steps:**
 1. Combine all dressing ingredients and blend, dilute with water if needed.
 2. Add cucumber, onions and tomatoes into a mixing bowl with salt and pepper.
