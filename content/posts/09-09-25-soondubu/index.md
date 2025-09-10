@@ -6,7 +6,7 @@ description = "Soondubu - Korean Soft Tofu Soup"
 
 Guest recipe from Shray today. I'm off this week and wanted to prep up a meal that I knew Nive would love, which is almost always a nice hot soup. Pho is her favorite of all soups, but ramen is also a close love and soondubu too, so I decided to make soondubu this time given we already had most of the things needed at home.
 
-[dat soup](soondubu.jpg)
+![dat soup](soondubu.jpeg)
 
 **Ingredients (4 servings):**
 

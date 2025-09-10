@@ -8,7 +8,7 @@ First post in a while since we were on vacation in Hawaii for a week and otherwi
 
 It was super nice hosting Diego for the weekend and getting out and about! We back in our day-to-day routine now and this was an awesome and pretty simple meal prep that Nive made for lunch.
 
-![halloumi_pasta](halloumi_pasta.jpg)
+![halloumi_pasta](halloumi_pasta.jpeg)
 
 **Ingredients (6 servings):**
 
