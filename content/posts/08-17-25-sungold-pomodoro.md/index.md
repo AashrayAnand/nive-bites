@@ -10,7 +10,6 @@ Nive was super happy to have Pavan around and staying at our place for the first
 
 ![dat good shit](pasta.jpg)
 
-
 ![sippy](espresso_martini.jpg)
 
 **Ingredients (2 servings):**
@@ -26,6 +25,7 @@ Nive was super happy to have Pavan around and staying at our place for the first
 - chilli flakes
 
 **Steps:**
+
 1. Cook the pasta per instructions, save 1 cup of pasta water for later use.
 2. In a sauce pan, sautee the shallot and garlic in olive oil, until transluscent
 3. Cut tomatoes in half, add to the sauce pan and simmer unti blisted.

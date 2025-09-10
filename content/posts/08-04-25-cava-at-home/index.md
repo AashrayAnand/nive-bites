@@ -20,7 +20,7 @@ Super quick and easy meal she lowk can make way cooler stuff but this was so goo
 - feta cheese
 - protein (we used beyond plant + amylu chicken meatballs)
 
-**Dressing**
+**Dressing:**
 
 - 1 cup greek yogurt
 - 1/4 cup parsley
@@ -30,13 +30,14 @@ Super quick and easy meal she lowk can make way cooler stuff but this was so goo
 - salt and pepper to taste.
 
 **Steps:**
+
 1. Combine all dressing ingredients and blend, dilute with water if needed.
 2. Add cucumber, onions and tomatoes into a mixing bowl with salt and pepper.
 3. Cook couscous as instructed.
 4. Prepare your preferred protein
 5. Assemble and serve.
 
-**Macros**
+**Macros:**
 
 - 413 calories
 - 4.5g saturated fat

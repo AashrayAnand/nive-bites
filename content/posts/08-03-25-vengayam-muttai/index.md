@@ -21,11 +21,9 @@ I've been going on 7-8 mile runs for the last few Sundays, trying to work back i
 - 5 tbsp oil
 
 **Steps:**
+
 1. Whisk the eggs with cumin, turmeric, salt and pepper.
 2. Add onions to the egg and whisk further.
 3. Let oil heat in the wok until its smoking hot.
 4. Pour the egg into the wok and let it fry, after all the egg is in, pour the onions on top.
 5. Let the egg cook until it has formed a patty. then you can flip it and serve with hot sauce or cheese.
-
-
-
