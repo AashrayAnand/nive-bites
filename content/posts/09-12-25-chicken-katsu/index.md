@@ -10,7 +10,7 @@ I tried to make Katsu but avoid deep frying or using too much oil/bread crumbs e
 
 ![chicken katsu](chicken_katsu.jpeg)
 
-**Ingredients (2 servings):**
+**Ingredients:**
 
 - 32oz chicken breast.
 - 2 cups panko bread crumbs

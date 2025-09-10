@@ -10,7 +10,7 @@ It was super nice hosting Diego for the weekend and getting out and about! We ba
 
 ![halloumi_pasta](halloumi_pasta.jpg)
 
-**Ingredients (2 servings):**
+**Ingredients (6 servings):**
 
 - 16 oz pasta (we used banza protein pasta).
 - 8 oz halloumi, cubed.

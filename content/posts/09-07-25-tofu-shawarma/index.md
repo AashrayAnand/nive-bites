@@ -8,7 +8,7 @@ Some dinner meal prep for a few days to go along with the pasta salad that Nive 
 
 [finished plate](finished_plate.jpeg)
 
-**Ingredients (2 servings):**
+**Ingredients (3 servings):**
 
 - 16oz extra firm tofu.
 - Lavash bread (Pita is an alternative but we prefer a thinner bread for this recipe).
