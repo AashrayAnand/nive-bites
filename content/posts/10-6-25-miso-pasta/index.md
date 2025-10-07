@@ -1,6 +1,6 @@
 +++
 title = "Miso Butter Pasta"
-date = 2025-10-6
+date = 2025-10-06
 description = "Soondubu - Korean Soft Tofu Soup"
 +++
 
