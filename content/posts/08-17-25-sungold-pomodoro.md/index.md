@@ -27,7 +27,7 @@ Nive was super happy to have Pavan around and staying at our place for the first
 **Steps:**
 
 1. Cook the pasta per instructions, save 1 cup of pasta water for later use.
-2. In a sauce pan, sautee the shallot and garlic in olive oil, until transluscent
+2. In a sauce pan, sautee the shallot and garlic in olive oil, until translucent
 3. Cut tomatoes in half, add to the sauce pan and simmer unti blisted.
 4. Once tomatoes have started to blister, add wine and allow alcohol to cook off for a few minutes.
 5. Once the wine has finished cooking off, add the parmesan cheese to thicken the sauce.

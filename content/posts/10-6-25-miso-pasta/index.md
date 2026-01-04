@@ -1,7 +1,7 @@
 +++
 title = "Miso Butter Pasta"
 date = 2025-10-06
-description = "Soondubu - Korean Soft Tofu Soup"
+description = "Miso Butter Pasta"
 +++
 
 ![park slope kid](park_slope_kid.png)

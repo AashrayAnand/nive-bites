@@ -30,7 +30,7 @@ God bless the shepherds wherever you are keep the sheep coming.
 ![shep pie](shep_pie_plate.jpeg)
 
 1. Preheat the oven to 400 degrees.
-2. Sautee onion and garlic with 2 tbsp oil, until onions are transluscent.
+2. Sautee onion and garlic with 2 tbsp oil, until onions are translucent.
 3. Mix in tomato paste, cook for 4 minutes.
 4. Add ground beef and seasoning, continuing to cook until well browned.
 5. Add mixed vegetables and cook until vegetables are soft, check for taste and season as needed.

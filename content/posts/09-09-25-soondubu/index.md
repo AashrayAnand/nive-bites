@@ -26,7 +26,7 @@ Guest recipe from Shray today. I'm off this week and wanted to prep up a meal th
 **Steps:**
 
 1. Chop the white onion and green onions, separating the white stems from the green onions.
-2. Bring a pot to medium temp, add the oil and cook the white stems of the green onions for ~30 seconds, then add the remaining onion, minced garlic, salt, pepper and gochugaru, cooking for 4-5 minutes until onions are slightly transluscent.
+2. Bring a pot to medium temp, add the oil and cook the white stems of the green onions for ~30 seconds, then add the remaining onion, minced garlic, salt, pepper and gochugaru, cooking for 4-5 minutes until onions are slightly translucent.
 3. Add the beef broth and raise temp until broth is boiling, mix in gochujang and make sure it dissolves.
 4. Once the broth is boiling, reduce the temperature to a simmer, and add the enoki mushroom and bok choy to cook for 2-3 minutes.
 5. At this point, taste the broth, and add more gochugaru/salt/pepper as needed to taste. If the broth is too spicy, add some brown sugar as well.
