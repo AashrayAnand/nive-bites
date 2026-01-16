@@ -6,7 +6,7 @@ description = ""
 
 Been a minute since I posted here but Nive's been serving up spreads the whole holiday time so I'm backdating a bunch of posts including this one since I last posted the miso pasta.
 
-This chilli was the first dish she made in our new ditch oven gifted from her mom, thanks auntie!!! So hearty could live off this all winter.
+This chilli was the first dish she made in our new dutch oven gifted from her mom, thanks auntie!!! So hearty could live off this all winter.
 
 Seattle is so depressing now but this food helps get over it a bit.
 

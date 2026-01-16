@@ -8,7 +8,7 @@ description = ""
 
 **Ingredients (4 servings):**
 
-1. 1 head of cualiflower, finely crumbled.
+1. 1 head of cauliflower, finely crumbled.
 2. 1/2 stick of unsalted butter.
 3. 2 cups of shredded kale
 4. 2 tbsp capers.
