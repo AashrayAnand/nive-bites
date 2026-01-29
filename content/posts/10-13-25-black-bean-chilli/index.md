@@ -24,7 +24,7 @@ Seattle is so depressing now but this food helps get over it a bit.
 8. 2 cloves garlic.
 9. cumin/salt/pepper/paprika.
 10. green bell pepper.
-11 (Optional) 1/2 LB of ground beef or impossible meat.
+11. (Optional) 1/2 LB of ground beef or impossible meat.
 
 **Steps:**
 
